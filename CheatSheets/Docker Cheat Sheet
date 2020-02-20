@@ -10,7 +10,7 @@ https://docs.docker.com/install/
 Check Installation:
 
 docker version
-docker run helloworld
+docker run hello-world
 
 Basic Docker Commands
 
